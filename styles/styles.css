@@ -106,3 +106,31 @@ h2{
   display: flex;
   gap: 80px;
 }
+
+.quote-container {
+  background-color: #E5E7EB;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote {
+  font-size: 36px;
+  width: 800px;
+  font-style: italic;
+  font-weight: 500;
+  color: #1F2937;
+  margin-bottom: 0px;
+  margin-top: 100px;
+}
+
+.quote-author {
+  width: 800px;
+  margin-top: 0px;
+  margin-bottom: 100px;
+  font-weight: 700;
+  font-size: 18px;
+  align-self: flex-end;
+}
+
