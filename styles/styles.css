@@ -1,0 +1,30 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #E5E7EB;
+  font-size: 18px;
+}
+
+.header-container {
+  background-color: #1F2937;
+  color: #F9FAF8;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 200px;
+}
+
+.header-links {
+  display: flex;
+  gap: 20px;
+}
+
+.header-logo {
+  font-size: 24px;
+  font-weight: 900;
+}
+
