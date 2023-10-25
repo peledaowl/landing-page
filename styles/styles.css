@@ -169,3 +169,12 @@ h2{
   font-weight: 700;
   padding: 10px 25px;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1F2937;
+  color: #E5E7EB;
+  height: 100px;
+}
